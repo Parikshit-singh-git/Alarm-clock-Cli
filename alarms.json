@@ -6,9 +6,15 @@
     "active": false
   },
   {
-    "id": "9b0f3880",
+    "id": "7dee3880",
     "time": "09:30",
     "label": "wake up",
+    "active": false
+  },
+  {
+    "id": "7deeb54c",
+    "time": "09:30",
+    "label": "uth ja bhai collage ka time ho gya hai",
     "active": false
   }
 ]
